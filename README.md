@@ -2,6 +2,8 @@
 
 **Nest-AVX** is an ultra-high-performance, header-only-style 2D nesting and polygon collision library written in pure C. Designed for CAM software, laser/plasma cutting systems, and real-time layout optimization, it combines hardware-accelerated SIMD with a deterministic arena allocator to deliver sub-millisecond packing solutions.
 
+For commercial licensing and inquiries, visit **[nest-avx.nicokregelin.workers.dev](https://nest-avx.nicokregelin.workers.dev)**.
+
 ## Key Features
 
 - **Blazing Fast:** Nests 24 complex, multi-vertex concave parts (including 90°/180° rotations) in **176 microseconds**.
