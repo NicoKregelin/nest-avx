@@ -51,3 +51,13 @@ void navx_solve(float sheet_width, float sheet_height, float *out_x, float *out_
 void navx_free(void);
 
 #endif
+```
+
+## Commercial Licensing
+`Nest-AVX` is available for commercial embedding in CAM software, laser/plasma cutting systems, and industrial automation tools.
+
+
+Enterprise licensing includes pre-compiled binaries, architecture-specific SIMD builds (AVX-512, AVX2, ARM NEON), and a dedicated support SLA.
+
+
+To request commercial terms and pricing for your organization, visit: **[nest-avx.nicokregelin.workers.dev](https://nest-avx.nicokregelin.workers.dev)**
